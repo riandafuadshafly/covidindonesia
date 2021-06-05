@@ -8,7 +8,7 @@ for i in data:
     print("[+]  Author    :Rianda Fuad Shafly")
     print("[+]  Info      :Data Covid Indonesia")
     print("[+]  Website   :www.riandafuadshafly.my.id")
-    print("[+]  Contact   :bangrianda456@gmail.co")
+    print("[+]  Contact   :bangrianda456@gmail.com")
     print("")
     print("[+]  Negara    :" +i["name"])
     print("[+]  Positif   :" +i["positif"])
